@@ -1,2 +1,1 @@
-Primer commit de branch B.
 Segundo commit de branch B.
